@@ -81,7 +81,7 @@ The improvement from fine-tuning `t5-small` can be seen in improved Rouge and BL
 |:-------------------|--------:|
 | t5-base            |   0.177 |
 | t5-small           |   0.174 |
-| t5-small-finetuned |   0.149 |
+| t5-small-finetuned |   0.179 |
 
 ### BLEU
 
@@ -89,7 +89,7 @@ The improvement from fine-tuning `t5-small` can be seen in improved Rouge and BL
 |:-------------------|-------:|
 | t5-base            |  0.02  |
 | t5-small           |  0.024 |
-| t5-small-finetuned |  0.022 |
+| t5-small-finetuned |  0.03 |
 
 ### Full results
 
